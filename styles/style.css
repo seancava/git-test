@@ -1,23 +1,15 @@
-h1:hover{
-color: #ff9900;  
+header img{
+  width: 33%;
 }
-a:visited{
- text-decoration: none;
+a {
+  text-decoration: none;
 }
-header{
-  text-align: center;
-  width: 90%;
-  margin: auto;
+nav a{
+  text-decoration: line-through;
 }
-article{
-  text-align:center;
-  width: 76%;
-  margin: auto;
+p {
+  color: aquamarine;
 }
-a::first-letter{
-  font-size: 1.5em;
-}
-footer{
-  border: 6px dotted #cccccc;
-  border-radius: 12px 12px 12px 12px;
+p {
+  color: crimson;
 }
