@@ -1,0 +1,23 @@
+h1:hover{
+color: #ff9900;  
+}
+a:visited{
+ text-decoration: none;
+}
+header{
+  text-align: center;
+  width: 90%;
+  margin: auto;
+}
+article{
+  text-align:center;
+  width: 76%;
+  margin: auto;
+}
+a::first-letter{
+  font-size: 1.5em;
+}
+footer{
+  border: 6px dotted #cccccc;
+  border-radius: 12px 12px 12px 12px;
+}
